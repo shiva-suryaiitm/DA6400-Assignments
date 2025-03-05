@@ -1,0 +1,16 @@
+{"time":"2025-03-05T07:25:59.5580793+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\DISK S\\IITM\\Sem-8\\DL\\Assignment\\tutorial-1\\code\\wandb\\run-20250305_072559-locarzug\\logs\\debug-core.log"}
+{"time":"2025-03-05T07:25:59.736785+05:30","level":"INFO","msg":"created new stream","id":"locarzug"}
+{"time":"2025-03-05T07:25:59.736785+05:30","level":"INFO","msg":"stream: started","id":"locarzug"}
+{"time":"2025-03-05T07:25:59.736785+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"locarzug"}
+{"time":"2025-03-05T07:25:59.736785+05:30","level":"INFO","msg":"sender: started","stream_id":"locarzug"}
+{"time":"2025-03-05T07:25:59.7372877+05:30","level":"INFO","msg":"handler: started","stream_id":"locarzug"}
+{"time":"2025-03-05T07:26:00.1330925+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-05T07:26:11.2032046+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-05T07:26:11.2037077+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-05T07:26:12.2121829+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading config.yaml","runtime_seconds":0.3982936,"progress":"853B/853B"}],"total_operations":1}}
+{"time":"2025-03-05T07:26:12.8157429+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-05T07:26:14.176592+05:30","level":"INFO","msg":"stream: closing","id":"locarzug"}
+{"time":"2025-03-05T07:26:14.176592+05:30","level":"INFO","msg":"handler: closed","stream_id":"locarzug"}
+{"time":"2025-03-05T07:26:14.176592+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"locarzug"}
+{"time":"2025-03-05T07:26:14.176592+05:30","level":"INFO","msg":"sender: closed","stream_id":"locarzug"}
+{"time":"2025-03-05T07:26:14.176592+05:30","level":"INFO","msg":"stream: closed","id":"locarzug"}

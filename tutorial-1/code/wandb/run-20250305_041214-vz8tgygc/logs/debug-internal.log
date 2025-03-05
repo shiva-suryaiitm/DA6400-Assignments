@@ -1,0 +1,16 @@
+{"time":"2025-03-05T04:12:14.2828066+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\DISK S\\IITM\\Sem-8\\DL\\Assignment\\tutorial-1\\code\\wandb\\run-20250305_041214-vz8tgygc\\logs\\debug-core.log"}
+{"time":"2025-03-05T04:12:14.4478137+05:30","level":"INFO","msg":"created new stream","id":"vz8tgygc"}
+{"time":"2025-03-05T04:12:14.4478137+05:30","level":"INFO","msg":"stream: started","id":"vz8tgygc"}
+{"time":"2025-03-05T04:12:14.4478137+05:30","level":"INFO","msg":"handler: started","stream_id":"vz8tgygc"}
+{"time":"2025-03-05T04:12:14.4478137+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"vz8tgygc"}
+{"time":"2025-03-05T04:12:14.4478137+05:30","level":"INFO","msg":"sender: started","stream_id":"vz8tgygc"}
+{"time":"2025-03-05T04:12:14.8666016+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-05T04:12:39.5416243+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-05T04:12:39.5421534+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-05T04:12:40.5465189+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.6915158,"progress":"232B/232B"},{"desc":"uploading config.yaml","runtime_seconds":0.1868471,"progress":"872B/872B"}],"total_operations":2}}
+{"time":"2025-03-05T04:12:41.1661447+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-05T04:12:42.5134585+05:30","level":"INFO","msg":"stream: closing","id":"vz8tgygc"}
+{"time":"2025-03-05T04:12:42.5134585+05:30","level":"INFO","msg":"handler: closed","stream_id":"vz8tgygc"}
+{"time":"2025-03-05T04:12:42.5134585+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"vz8tgygc"}
+{"time":"2025-03-05T04:12:42.5134585+05:30","level":"INFO","msg":"sender: closed","stream_id":"vz8tgygc"}
+{"time":"2025-03-05T04:12:42.5134585+05:30","level":"INFO","msg":"stream: closed","id":"vz8tgygc"}

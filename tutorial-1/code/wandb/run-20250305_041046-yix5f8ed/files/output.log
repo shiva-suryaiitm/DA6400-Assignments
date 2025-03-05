@@ -1,0 +1,13 @@
+optimizer loaded with this setting :
+These are the specifications of the optimizer : 'GD_with_Momentum'
+lr : 0.001
+beta : 0.99
+weight_decay : 0.5
+du : previous gradients updates for momentum
+
+NN created successfully !, total params : 28.618K
+train-progress-bar , epcoh : 1: 3375it [00:01, 2839.29it/s]
+train-progress-bar , epcoh : 2: 3375it [00:01, 2728.85it/s]
+train-progress-bar , epcoh : 3: 3375it [00:01, 2935.08it/s]
+train-progress-bar , epcoh : 4: 3375it [00:01, 2828.38it/s]
+train-progress-bar , epcoh : 5: 3375it [00:01, 2365.92it/s]

@@ -1,0 +1,16 @@
+{"time":"2025-03-05T04:22:20.9777891+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\DISK S\\IITM\\Sem-8\\DL\\Assignment\\tutorial-1\\code\\wandb\\run-20250305_042220-lvehmq1x\\logs\\debug-core.log"}
+{"time":"2025-03-05T04:22:21.8555555+05:30","level":"INFO","msg":"created new stream","id":"lvehmq1x"}
+{"time":"2025-03-05T04:22:21.8555555+05:30","level":"INFO","msg":"stream: started","id":"lvehmq1x"}
+{"time":"2025-03-05T04:22:21.8561326+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"lvehmq1x"}
+{"time":"2025-03-05T04:22:21.856218+05:30","level":"INFO","msg":"handler: started","stream_id":"lvehmq1x"}
+{"time":"2025-03-05T04:22:21.856218+05:30","level":"INFO","msg":"sender: started","stream_id":"lvehmq1x"}
+{"time":"2025-03-05T04:22:22.2460541+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-05T04:22:22.7744921+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-05T04:22:22.7750439+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-05T04:22:23.7832195+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-metadata.json","runtime_seconds":0.816035,"progress":"870B/870B"},{"desc":"uploading requirements.txt","runtime_seconds":0.7027732,"progress":"7.4KB/7.4KB"},{"desc":"uploading output.log","runtime_seconds":0.0391347},{"desc":"uploading wandb-summary.json","runtime_seconds":0.0391347,"progress":"24B/24B"}],"total_operations":4}}
+{"time":"2025-03-05T04:22:25.0506883+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-05T04:22:26.3637399+05:30","level":"INFO","msg":"stream: closing","id":"lvehmq1x"}
+{"time":"2025-03-05T04:22:26.3637399+05:30","level":"INFO","msg":"handler: closed","stream_id":"lvehmq1x"}
+{"time":"2025-03-05T04:22:26.3637399+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"lvehmq1x"}
+{"time":"2025-03-05T04:22:26.3637399+05:30","level":"INFO","msg":"sender: closed","stream_id":"lvehmq1x"}
+{"time":"2025-03-05T04:22:26.3642485+05:30","level":"INFO","msg":"stream: closed","id":"lvehmq1x"}

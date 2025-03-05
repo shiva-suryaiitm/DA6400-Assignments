@@ -1,0 +1,18 @@
+optimizer loaded with this setting :
+These are the specifications of the optimizer : 'RMSprop'
+lr : 0.001
+beta : 0.99
+epsilon : 1e-07
+weight_decay : 0
+dv : cumulative square of gradients
+
+NN created successfully !, total params : 167.818K
+train-progress-bar , epcoh : 1: 0it [00:00, ?it/s]C:\Users\pcdpm\AppData\Local\Temp\ipykernel_7928\1142002762.py:18: RuntimeWarning: divide by zero encountered in log
+  self.loss = np.sum(-np.log(self.output)*y_true, axis = 1)
+C:\Users\pcdpm\AppData\Local\Temp\ipykernel_7928\1142002762.py:18: RuntimeWarning: invalid value encountered in multiply
+  self.loss = np.sum(-np.log(self.output)*y_true, axis = 1)
+train-progress-bar , epcoh : 1: 3375it [00:13, 258.84it/s]
+train-progress-bar , epcoh : 2: 3375it [00:13, 241.61it/s]
+train-progress-bar , epcoh : 3: 3375it [00:12, 277.75it/s]
+train-progress-bar , epcoh : 4: 3375it [00:12, 276.75it/s]
+train-progress-bar , epcoh : 5: 3375it [00:13, 250.42it/s]

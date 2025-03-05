@@ -1,0 +1,21 @@
+optimizer loaded with this setting :
+These are the specifications of the optimizer : 'Adam'
+lr : 0.001
+beta1 : 0.9
+beta2 : 0.999
+epsilon : 1e-07
+weight_decay : 0.5
+dm : classical momentum
+dv : cumulative square of gradients
+
+NN created successfully !, total params : 184.330K
+train-progress-bar , epcoh : 1: 844it [00:06, 134.65it/s]
+train-progress-bar , epcoh : 2: 844it [00:06, 136.77it/s]
+train-progress-bar , epcoh : 3: 844it [00:06, 136.89it/s]
+train-progress-bar , epcoh : 4: 844it [00:06, 138.27it/s]
+train-progress-bar , epcoh : 5: 844it [00:06, 137.56it/s]
+train-progress-bar , epcoh : 6: 844it [00:06, 136.69it/s]
+train-progress-bar , epcoh : 7: 844it [00:06, 137.35it/s]
+train-progress-bar , epcoh : 8: 844it [00:06, 135.45it/s]
+train-progress-bar , epcoh : 9: 844it [00:07, 120.41it/s]
+train-progress-bar , epcoh : 10: 844it [00:06, 129.54it/s]

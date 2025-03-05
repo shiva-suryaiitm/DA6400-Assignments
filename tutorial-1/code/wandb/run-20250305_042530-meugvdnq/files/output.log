@@ -1,0 +1,13 @@
+optimizer loaded with this setting :
+These are the specifications of the optimizer : 'NAG'
+lr : 0.0001
+beta : 0.99
+weight_decay : 0
+du : previous gradients updates for momentum
+
+NN created successfully !, total params : 67.530K
+train-progress-bar , epcoh : 1: 1688it [00:03, 451.37it/s]
+train-progress-bar , epcoh : 2: 1688it [00:03, 512.15it/s]
+train-progress-bar , epcoh : 3: 1688it [00:03, 533.84it/s]
+train-progress-bar , epcoh : 4: 1688it [00:03, 513.21it/s]
+train-progress-bar , epcoh : 5: 1688it [00:03, 523.37it/s]

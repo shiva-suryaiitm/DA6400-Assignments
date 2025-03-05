@@ -1,0 +1,20 @@
+wandb_version: 1
+
+activation_fn:
+  value: relu
+batch_size:
+  value: 16
+epochs:
+  value: 5
+hidden_size:
+  value: 128
+lr:
+  value: 0.0001
+n_hidden:
+  value: 5
+optimizer:
+  value: nadam
+weight_decay:
+  value: 0
+weight_initialization:
+  value: xavier

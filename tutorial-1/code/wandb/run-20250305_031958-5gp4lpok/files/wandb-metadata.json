@@ -1,0 +1,36 @@
+{
+  "os":  "Windows-10-10.0.22631-SP0",
+  "python":  "CPython 3.10.4",
+  "startedAt":  "2025-03-04T21:49:58.746201Z",
+  "program":  "<python with no main file>",
+  "email":  "pcdpm4@gmail.com",
+  "root":  "d:\\DISK S\\IITM\\Sem-8\\DL\\Assignment\\tutorial-1\\code",
+  "host":  "LAPTOP-4EA9JJMH",
+  "executable":  "c:\\Python310\\python.exe",
+  "cpu_count":  6,
+  "cpu_count_logical":  12,
+  "gpu":  "NVIDIA GeForce RTX 3050 Laptop GPU",
+  "gpu_count":  1,
+  "disk":  {
+    "/":  {
+      "total":  "1000203087872",
+      "used":  "889242972160"
+    }
+  },
+  "memory":  {
+    "total":  "25521610752"
+  },
+  "cpu":  {
+    "count":  6,
+    "countLogical":  12
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "NVIDIA GeForce RTX 3050 Laptop GPU",
+      "memoryTotal":  "4294967296",
+      "cudaCores":  2048,
+      "architecture":  "Ampere"
+    }
+  ],
+  "cudaVersion":  "12.2"
+}

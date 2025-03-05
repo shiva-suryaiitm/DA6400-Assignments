@@ -1,0 +1,14 @@
+optimizer loaded with this setting :
+These are the specifications of the optimizer : 'RMSprop'
+lr : 0.0001
+beta : 0.99
+epsilon : 1e-07
+weight_decay : 0
+dv : cumulative square of gradients
+
+NN created successfully !, total params : 28.618K
+train-progress-bar , epcoh : 1: 844it [00:01, 467.61it/s]
+train-progress-bar , epcoh : 2: 844it [00:01, 504.83it/s]
+train-progress-bar , epcoh : 3: 844it [00:02, 340.06it/s]
+train-progress-bar , epcoh : 4: 844it [00:01, 479.99it/s]
+train-progress-bar , epcoh : 5: 844it [00:01, 577.38it/s]

@@ -1,0 +1,16 @@
+{"time":"2025-03-05T08:15:08.9266413+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\DISK S\\IITM\\Sem-8\\DL\\Assignment\\tutorial-1\\code\\wandb\\run-20250305_081508-ymovetwn\\logs\\debug-core.log"}
+{"time":"2025-03-05T08:15:09.0918575+05:30","level":"INFO","msg":"created new stream","id":"ymovetwn"}
+{"time":"2025-03-05T08:15:09.0918575+05:30","level":"INFO","msg":"stream: started","id":"ymovetwn"}
+{"time":"2025-03-05T08:15:09.0918575+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ymovetwn"}
+{"time":"2025-03-05T08:15:09.092369+05:30","level":"INFO","msg":"sender: started","stream_id":"ymovetwn"}
+{"time":"2025-03-05T08:15:09.092369+05:30","level":"INFO","msg":"handler: started","stream_id":"ymovetwn"}
+{"time":"2025-03-05T08:15:09.4655096+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-05T08:18:24.0851225+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-05T08:18:24.0851225+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-05T08:18:25.0924062+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.3901004,"progress":"866B/866B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.3901004,"progress":"236B/236B"},{"desc":"uploading config.yaml","runtime_seconds":0.101715,"progress":"853B/853B"}],"total_operations":3}}
+{"time":"2025-03-05T08:18:25.4232426+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-05T08:18:26.7421066+05:30","level":"INFO","msg":"stream: closing","id":"ymovetwn"}
+{"time":"2025-03-05T08:18:26.7421066+05:30","level":"INFO","msg":"handler: closed","stream_id":"ymovetwn"}
+{"time":"2025-03-05T08:18:26.7421066+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ymovetwn"}
+{"time":"2025-03-05T08:18:26.7421066+05:30","level":"INFO","msg":"sender: closed","stream_id":"ymovetwn"}
+{"time":"2025-03-05T08:18:26.7421066+05:30","level":"INFO","msg":"stream: closed","id":"ymovetwn"}

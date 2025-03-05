@@ -1,0 +1,18 @@
+optimizer loaded with this setting :
+These are the specifications of the optimizer : 'SGD'
+lr : 0.0001
+weight_decay : 0.5
+
+NN created successfully !, total params : 71.690K
+train-progress-bar , epcoh : 1: 0it [00:00, ?it/s]C:\Users\pcdpm\AppData\Local\Temp\ipykernel_17576\3184334230.py:12: RuntimeWarning: invalid value encountered in subtract
+  exp_x = np.exp(x - x_max)  # Subtract max for numerical stability
+train-progress-bar , epcoh : 1: 3375it [00:02, 1613.95it/s]
+train-progress-bar , epcoh : 2: 3375it [00:01, 1847.33it/s]
+train-progress-bar , epcoh : 3: 3375it [00:02, 1653.96it/s]
+train-progress-bar , epcoh : 4: 3375it [00:02, 1621.20it/s]
+train-progress-bar , epcoh : 5: 3375it [00:01, 1795.73it/s]
+train-progress-bar , epcoh : 6: 3375it [00:02, 1595.16it/s]
+train-progress-bar , epcoh : 7: 3375it [00:01, 1874.78it/s]
+train-progress-bar , epcoh : 8: 3375it [00:02, 1671.25it/s]
+train-progress-bar , epcoh : 9: 3375it [00:01, 1860.99it/s]
+train-progress-bar , epcoh : 10: 3375it [00:01, 1803.62it/s]

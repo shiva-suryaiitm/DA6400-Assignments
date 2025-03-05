@@ -1,0 +1,21 @@
+optimizer loaded with this setting :
+These are the specifications of the optimizer : 'Nadam'
+lr : 0.001
+beta1 : 0.9
+beta2 : 0.999
+epsilon : 1e-07
+weight_decay : 0.5
+dm : classical momentum
+dv : cumulative square of gradients
+
+NN created successfully !, total params : 28.618K
+train-progress-bar , epcoh : 1: 3375it [00:02, 1594.41it/s]
+train-progress-bar , epcoh : 2: 3375it [00:02, 1318.66it/s]
+train-progress-bar , epcoh : 3: 3375it [00:03, 1054.18it/s]
+train-progress-bar , epcoh : 4: 3375it [00:02, 1389.92it/s]
+train-progress-bar , epcoh : 5: 3375it [00:02, 1277.88it/s]
+train-progress-bar , epcoh : 6: 3375it [00:02, 1504.29it/s]
+train-progress-bar , epcoh : 7: 3375it [00:02, 1607.77it/s]
+train-progress-bar , epcoh : 8: 3375it [00:02, 1591.79it/s]
+train-progress-bar , epcoh : 9: 3375it [00:02, 1582.87it/s]
+train-progress-bar , epcoh : 10: 3375it [00:02, 1594.92it/s]

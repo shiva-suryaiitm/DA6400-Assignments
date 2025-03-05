@@ -1,0 +1,16 @@
+optimizer loaded with this setting :
+These are the specifications of the optimizer : 'SGD'
+lr : 0.001
+weight_decay : 0.0005
+
+NN created successfully !, total params : 30.730K
+train-progress-bar , epcoh : 1: 844it [00:01, 603.89it/s]
+train-progress-bar , epcoh : 2: 844it [00:01, 742.53it/s]
+train-progress-bar , epcoh : 3: 844it [00:01, 742.65it/s]
+train-progress-bar , epcoh : 4: 844it [00:01, 655.80it/s]
+train-progress-bar , epcoh : 5: 844it [00:01, 556.99it/s]
+train-progress-bar , epcoh : 6: 844it [00:01, 708.76it/s]
+train-progress-bar , epcoh : 7: 844it [00:01, 758.24it/s]
+train-progress-bar , epcoh : 8: 844it [00:01, 763.16it/s]
+train-progress-bar , epcoh : 9: 844it [00:01, 790.02it/s]
+train-progress-bar , epcoh : 10: 844it [00:01, 778.59it/s]
