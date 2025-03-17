@@ -1,0 +1,24 @@
+method: bayes  # Can be "grid", "random", or "bayes"
+metric:
+  name: val_accuracy_mse  # Change this if you're optimizing something else
+  goal: maximize
+
+parameters:
+  epochs:
+    values: [10]
+  n_hidden:
+    values: [5]
+  hidden_size:
+    values: [64, 128]
+  weight_decay:
+    values: [0, 0.0005]
+  lr:
+    values: [0.001, 0.0001]
+  optimizer:
+    values: ["nesterov", "adam", "nadam"]
+  batch_size:
+    values: [32, 64]
+  weight_initialization:
+    values: ["xavier"]
+  activation_fn:
+    values: ["tanh", "relu"]
