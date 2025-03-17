@@ -2,6 +2,10 @@
 
 This document provides an overview of the logic, code structure, and functionalities of each Python file in the neural network project.
 
+[Github repo link](https://github.com/shiva-suryaiitm/DA6400-Assignments)
+
+[Wandb report link](https://wandb.ai/shivasurya-iit-madras/DA6401-fashion-mnist-assig-1/reports/DA6401-Assignment-1-PH21B009-SHIVASURYA--VmlldzoxMTcwMTYxMg?accessToken=2b64stniltt9m0cvxm13m02m0odilgfik9rj7usn9a1bh1wd7roub3sp5w462aym)
+
 ---
 
 ## 📁 Project Structure Overview
