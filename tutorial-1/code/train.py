@@ -6,6 +6,7 @@ from helper_functions import fashion_mnist_loader, mnist_loader
 def get_args():
     parser = argparse.ArgumentParser(description="Train a neural network with WandB integration")
     
+    parser.add_argument("-wl","--wandb_login",type=str, help="wandb login api key")
     parser.add_argument("-wp", "--wandb_project", type=str, default="myprojectname", help="Project name used to track experiments in Weights & Biases dashboard")
     parser.add_argument("-we", "--wandb_entity", type=str,  default="myname", help="Wandb Entity used to track experiments in the Weights & Biases dashboard")
     parser.add_argument("-d", "--dataset", type=str, choices=["mnist", "fashion_mnist"], default="fashion_mnist", help="Dataset choice")
@@ -30,7 +31,7 @@ def get_args():
 def train_model(args, trainer_wandb : automated_trainer):
 
         # Initialize wandb
-        wandb.login(key = args['wandb_entity'])
+        wandb.login(key = args['wandb_login'])
         run = wandb.init(project = args['wandb_project'], config = args)
         config = wandb.config
         run.name = f"act_fn : {config.activation_fn} _ hidden : {config.n_hidden}-{config.hidden_size} _ optimizer : {config.optimizer} "
